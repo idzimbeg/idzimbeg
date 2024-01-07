@@ -1,7 +1,5 @@
 <a href="URL_REDIRECT" target="blank"><img style="width: 100%; height: 15rem; background-image: cover; border-radius: 8px;" src="https://images.unsplash.com/photo-1704520355609-c62b0c4010df?q=80&w=2832&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" height="100" /></a>
 
-<div style="padding: 2rem; display:flex; flex-direction: column; gap: 1rem">
-
 <div style="display: flex; flex-direction: row; gap: 1.5rem; width: 100%">
 
 <div>
@@ -42,6 +40,8 @@
 
 </div>
 </div>
+
+<div style="padding: 2rem; display:flex; flex-direction: column; gap: 1rem">
 
 ### Hey there, fellow code wanderer! 👋
 
